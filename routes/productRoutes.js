@@ -31,12 +31,3 @@ router.delete('/:id', async (req, res) => {
 })
 
 export default router
-//
-// {
-//     "nome": ,
-//     "descricao": ,
-//     "preco": ,
-//     "quantidade": ,
-//     "fornecedor": ,
-//     "validade": ,
-// }
